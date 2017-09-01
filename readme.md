@@ -2,6 +2,7 @@ Visualizing the data jungle -- Part I. Let's make a graph
 
 This is the first article of a series diving into visualization tools and analysis of time series data. Obviously we are most interested in looking at performance related data we can gather from the Caché family of products. However, as we'll see down the road, we are absolutely not limited to that. For now we are exploring python and the libraries/tools available within that ecosystem.
 
+
 The series is closely tying into Murray's excellent series about Caché performance and monitoring ([see here](https://community.intersystems.com/post/intersystems-data-platforms-capacity-planning-and-performance-series-index)) and more specifically [this article](https://community.intersystems.com/post/extracting-pbuttons-data-csv-file-easy-charting).
 
 **Disclaimer I**: While I will be talking in passing about the interpretation of the data we are looking at, talking about that in detail would distract too much from actual goal. I highly recommend Murray's series as a start, to get a basic understanding of the subject matter.
